@@ -1,6 +1,6 @@
 {
   "name": "jquery.rest-client.js",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "main": "lib/jquery.rest-client.js",
   "dependencies": {
     "jquery": ">= 1.4.4"
